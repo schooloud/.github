@@ -15,6 +15,6 @@
 
 다음 [문서](https://github.com/schooloud/guideline_for_contribution)를 참고해주세요.
 
-
-
-
+# 디스코드 커뮤니티
+어떠한 질문과 지식 공유도 환영합니다.
+언제든지 [디스코드 커뮤니티](https://discord.gg/B6GZwvVE)에 와서 소통해요😎
