@@ -6,7 +6,7 @@
 
 ## 목차
 
-- <a href="INSTALL_BE.md">Backend-server</a>
+- <a href="profile/INSTALL_BE.md">Backend-server</a>
 - [Proxy-server](#Schooloud-Proxy-server)
 - [Openstack-server](#Schooloud-Openstack-server)
 - [Frontend-server](#Schooloud-Frontend-server)
